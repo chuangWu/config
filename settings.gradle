@@ -1,3 +1,4 @@
+include ':RefreshCore'
 include ':adapter'
 include ':app'
 rootProject.name = "GithubConfig"
